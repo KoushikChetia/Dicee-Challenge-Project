@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: #e1d7c6;
+}
+.red{
+    color: red;
+}
+.image_dice{
+    height: 250px;
+    width: auto;
+    margin: 40px;
+
+}
+a{
+    text-decoration: none;
+    border: 2px solid;
+    padding: 5px;
+    background-color: cyan;
+    border-color: cyan;
+    border-radius: 8px;
+    color: black;
+    
+    width: 10%;
+    font-family: 'Dancing Script', cursive;
+}
+.text{
+    color:#579bb1 ;
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+}
+#side3{
+    height: 240px;
+    width: auto;
+}
+.section{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 34%;
+    height: auto;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 30px 0px 50px 0px;
+}
